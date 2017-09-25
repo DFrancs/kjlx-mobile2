@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\a426703d3fbd9eab797dd836dff8b24febedd553\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_91a6634994f1fc6ed8ea4fa3d2b032ee799c8a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_099904abe302ae365c21495bd8234a25975bd821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\72c84f5a008d76a076e7abfa7bace3fa008bc398\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_2c4073b2f959bb9cbaf63705d87ee4cbc1a1626b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\903d79075f60299b3c1415de6bde2517035e1c06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_7f43ae9dbf669213fd50b2e5ada31c068098813b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\01065f65ba6c1c62f2501a97ab45ee437eff0ac8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_57d0fa863842fe350968ec884eefa2387a202657.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\e1672efced803b332475591e5905f25caa9173d3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_3b9ddbd2eca2ab09bbb7ccdd7301d58f0d1eded5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\2414fa7cba86d5ba104d024a1681a67cba216276\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_656ea6d21efc022622b136c05d5744c48d4ca5b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\2ec24d632e2eff5434d92bf1698fb3655e0185d7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_8f49a0000ee662160caab9aae6ef57cd5b005d7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\3bceff4311d314a45abf1997015b6f313838aac3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_6f68b22e68acf708003da6ddb4a8d45b91df5680.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\ea5a86a8a7d727888663bb1b231eca4bf780e62b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_fee7487f7087941b6ef3ee106210ad03baa1fda1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1a1e6937947bb37a2a8e9b959a85c7f6c53820f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\80ddd2e7b8907ee15b0da1ecab20c449af54309f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_478dd46deb135e6331c25864cbb65b68b293246a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\a3d9d9bd760d85f12d1637d404442759033601ef\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_e23508964a0064d5d75271d3d3cfbe52f3b87f36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c41a693066fd431a775744e2e658a5d0c33ffe8e">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_42b59cdb93260edb62bbad3b841e7f5de759276b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\da93b31b130ce0e6bce30fa577fef57a01571b18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_d55e69e4a4cd0c19243b66cdf12c0acc2d8a477e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_7a04fbd15797b0368442a9b2c2421612d1e30e48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\cornm\.android\build-cache\2f3be8e7933b464a3fefbd905e55192b60dabf81\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\cornm\AndroidStudioProjects\KJACK_Radio\app\build\intermediates\pre-dexed\debug\classes_75aba0bfba790949329a5fe90195b8973b89e054.jar" />
+    </item>
+
+</items>
